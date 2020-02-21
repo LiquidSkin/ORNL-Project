@@ -17,4 +17,13 @@ and calculates various properties of a star such as its flux and pressure by usi
  * Using Git for version control.
  * Use of Guthub Markdown for documenting github repositories.
  
+ Dependencies
+ . JDK 1.7 OR ABOVE
+ . JAVA 5 OR ABOVE
+ . JUNIT TESTING FRAMEWORK LATEST VERSION
+ . JRE LATEST VERSION
+ 
+ 
+ ### Running JUnit Tests
+ 
  
