@@ -1,4 +1,4 @@
 # ORNL-Project
 ORNL Project with 5 classes.
-To add fields to the star class, calculate the flux of a star, compile and run the Star.java class
+### The Star Class allows us to add the properties of a star, display the details and calculate the flux of a star.
 
