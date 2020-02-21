@@ -24,11 +24,37 @@ and calculates various properties of a star such as its flux and pressure by usi
  * #### JRE LATEST VERSION
  
  
- ### RUNNING STAR CLASS TO GET THE PROPERTIES OF A STAR AND CALCULATE ITS FLUX
+ ##### RUNNING STAR CLASS TO GET THE PROPERTIES OF A STAR AND CALCULATE ITS FLUX
  Compile and Run the Java class with the following Java commands.
  ```
  javac Star.java
- java star
+ java Star
+ ```
+ #### TO RUN STAR'S CHILD CLASS SUPERGIANT AND CALCULATE ITS FLUX AND FIND ITS DETAILS
+ Compile and Run the Java class with the following Java commands.
+ ```
+ javac SuperGiant.java
+ java SuperGiant
+ 
  ```
  
+ #### TO RUN THE WHITEDWARF AND BLACKDWARF CLASSES AND TO GET THEIR DETAILS AND CALCULATE THEIR PRESSURE
+ Compile and Run the Java Classes with the following Java commands.
+ 
+ ```
+ javac WhiteDwarf.java
+ java WhiteDwarf
+ 
+ javac BlackDwarf.java
+ java BlackDward
+ 
+ ```
+ 
+ #### TO RUN THE BLACKHOLE CLASS AND CALCULATE THE SCHWARZSCHILD RADIUS OF THE BLACKHOLE, DEMONSTRATE THE WORKING OF HASHCODE AND EQUALS METHOD
+Compile and Run the Java class with the following commands.
+
+```
+javac BlackHole.java
+java BlackHole
+```
  
